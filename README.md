@@ -26,7 +26,7 @@ The Recipe Sharing App is a web application that allows users to create, view, a
 
 - Java 17
 - Maven
-```
+  
 ### Installation
 
 1. Clone the repository:
