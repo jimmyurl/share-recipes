@@ -1,4 +1,4 @@
-```
+```bash
 # Recipe Sharing App
 
 ## Description
