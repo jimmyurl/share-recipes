@@ -4,14 +4,14 @@
 ## Description
 
 The Recipe Sharing App is a web application that allows users to create, view, and delete recipes. It is built using Spring Boot, providing a RESTful API for managing recipes.
-```
+
 ## Features
 
 - **Get All Recipes**: Retrieve a list of all recipes.
 - **Get Recipe by ID**: Fetch details of a specific recipe by its ID.
 - **Create Recipe**: Add a new recipe with its details.
 - **Delete Recipe**: Remove a recipe from the database.
-```
+  
 ## Technologies Used
 
 - Java 17
