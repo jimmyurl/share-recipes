@@ -1,5 +1,5 @@
-```bash
-# Recipe Sharing App
+
+## Recipe Sharing App
 
 ## Description
 
