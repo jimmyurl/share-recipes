@@ -86,5 +86,5 @@ This project is licensed under the MIT License.
 - Thanks to the Spring community for the fantastic framework.
 - Inspiration from various recipe sharing platforms.
 
-```
+
 
